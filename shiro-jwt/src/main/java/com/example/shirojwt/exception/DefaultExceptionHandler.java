@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.*;
 /**
  * DefaultExceptionHandler:自定义异常处理器
  *
- * @author zhangxiaoxiang
- * @date: 2019/07/12
+ * @author liweilong
+ * @date: 2019/10/29
  */
 @Slf4j
 @ControllerAdvice  //不指定包默认加了@Controller和@RestController都能控制

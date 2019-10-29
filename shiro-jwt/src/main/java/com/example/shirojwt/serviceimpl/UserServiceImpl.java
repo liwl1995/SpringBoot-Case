@@ -18,8 +18,8 @@ import java.util.Map;
  * 客户端用户表 服务实现类
  * </p>
  *
- * @author zhangxiaoxiang
- * @since 2019-07-12
+ * @author liweilong
+ * @date: 2019/10/29
  */
 @Service
 public class UserServiceImpl extends ServiceImpl<UserDao, User> implements UserService {
@@ -51,7 +51,7 @@ public class UserServiceImpl extends ServiceImpl<UserDao, User> implements UserS
         loginUser.setToken(token);
         return loginUser;
     }
-    
+
     /**
      * 通过用户(电话号码)查询用户
      * 原则不允许重复注册,只有测试阶段才会出现,上线时不允许的

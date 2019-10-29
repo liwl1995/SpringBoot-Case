@@ -7,8 +7,8 @@ import org.springframework.stereotype.Component;
 /**
  * LoginUser:登录注册LoginUser传参实体(带验证码)
  *
- * @author zhangxiaoxiang
- * @date: 2019/05/23
+ * @author liweilong
+ * @date: 2019/10/29
  */
 @Data
 @JsonInclude(JsonInclude.Include.NON_NULL)

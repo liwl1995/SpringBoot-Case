@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 客户端用户表 Mapper 接口
  * </p>
  *
- * @author zhangxiaoxiang
- * @since 2019-07-12
+ * @author liweilong
+ * @date: 2019/10/29
  */
 public interface UserDao extends BaseMapper<User> {
 

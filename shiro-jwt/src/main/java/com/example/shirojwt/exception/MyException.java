@@ -4,8 +4,8 @@ package com.example.shirojwt.exception;
 import lombok.Data;
 /**
  * MyException:自定义异常
- * @author zhangxiaoxiang
- * @date 2019/7/13
+ * @author liweilong
+ * @date: 2019/10/29
  */
 @Data
 public class MyException extends RuntimeException {

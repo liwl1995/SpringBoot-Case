@@ -20,8 +20,8 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * JwtFilter:jwt过滤器来作为shiro的过滤器
  *
- * @author zhangxiaoxiang
- * @date: 2019/07/12
+ * @author liweilong
+ * @date: 2019/10/29
  */
 @Slf4j
 @Component//这个注入与否影响不大

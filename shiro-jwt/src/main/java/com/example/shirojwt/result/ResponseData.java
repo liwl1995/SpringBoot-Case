@@ -5,8 +5,8 @@ import lombok.Data;
 /**
  * ResponseData:
  *
- * @author zhangxiaoxiang
- * @date: 2019/07/12
+ * @author liweilong
+ * @date: 2019/10/29
  */
 @Data
 public class ResponseData<T> {

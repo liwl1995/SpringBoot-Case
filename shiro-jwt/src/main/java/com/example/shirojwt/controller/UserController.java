@@ -19,8 +19,8 @@ import org.springframework.web.bind.annotation.RestController;
  * 客户端用户表 前端控制器
  * </p>
  *
- * @author zhangxiaoxiang
- * @since 2019-07-12
+ * @author liweilong
+ * @date: 2019/10/29
  */
 @RestController
 @RequestMapping("/user")
@@ -48,8 +48,8 @@ public class UserController {
     }
 
     @RequestMapping("/swagger/test")
-    public Object swagger(@RequestBody User user) {
+public Object swagger(@RequestBody User user) {
         log.warn("测试放行的方法能进来不?");
         return "测试放行的方法能进来不?";
-    }
-}
+        }
+        }

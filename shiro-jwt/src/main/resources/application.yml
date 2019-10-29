@@ -1,4 +1,3 @@
-#数据库(我使用的是mysql8)
 spring:
   datasource:
     #    mysql5.7用下面这个驱动

@@ -19,8 +19,8 @@ import org.springframework.stereotype.Component;
 /**
  * MyRealm:自定义一个授权
  *
- * @author zhangxiaoxiang
- * @date: 2019/07/12
+ * @author liweilong
+ * @date: 2019/10/29
  */
 
 @Component

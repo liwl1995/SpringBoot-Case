@@ -4,8 +4,8 @@ package com.example.shirojwt.result;
  * ResponseDataUtil:返回的工具类,主要是方便返回的写法
  * 单纯的返回工具类,直接放在这个包
  *
- * @author zhangxiaoxiang
- * @date: 2019/07/13
+ * @author liweilong
+ * @date: 2019/10/29
  */
 public class ResponseDataUtil {
     /**
